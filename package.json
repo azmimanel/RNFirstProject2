@@ -1,5 +1,5 @@
 {
-  "name": "RNFirstProject",
+  "name": "rnirstproject",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,12 +10,17 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.2",
     "axios": "^0.27.2",
     "firebase": "^9.8.4",
     "react": "18.0.0",
+    "react-icons": "^4.4.0",
     "react-native": "0.69.1",
+    "react-native-paper": "^4.12.2",
     "react-native-safe-area-context": "^4.3.1",
     "react-native-screens": "^3.14.1"
   },
